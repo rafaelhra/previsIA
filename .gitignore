@@ -179,3 +179,11 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+
+# Ambiente Virtual
+venv/
+
+# Caches do Python
+__pycache__/
+*.pyc
