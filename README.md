@@ -6,7 +6,7 @@ PrevisIA é um sistema de previsão de curto prazo para o preço de ações, uti
 
 ## Exemplo de Saída
 
-![alt text](image.png)
+![alt text](img\graph-image.png)
 
 ## Tecnologias Utilizadas
 
